@@ -6,6 +6,9 @@ This trial consists of writing an angular 10 app from scratch. Feel free to expa
 
 Pull news from the News public API and display them on a timeline.
 Api Key: 5dfbcdd753c1449db741e2f537387fef
+Url: https://newsapi.org/
+
+http://newsapi.org/v2/everything?q=bitcoin&from=2020-09-28&sortBy=publishedAt&apiKey=API_KEY
 
 ## Evaluation Criteria
 

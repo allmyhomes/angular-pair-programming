@@ -1,0 +1,24 @@
+{
+  "name": "andreas-pair-programming",
+  "version": "1.0.0",
+  "description": "test for HR",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allmyhomes/angular-pair-programming.git"
+  },
+  "keywords": [
+    "react",
+    "test",
+    "fun"
+  ],
+  "author": "andreas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allmyhomes/angular-pair-programming/issues"
+  },
+  "homepage": "https://github.com/allmyhomes/angular-pair-programming#readme"
+}
