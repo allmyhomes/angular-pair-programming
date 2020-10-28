@@ -4,13 +4,20 @@ This trial consists of writing an angular 10 app from scratch. Feel free to expa
 
 ## App Description
 
-Pull tweets from the Twitter public API and display them on a timeline.
+Pull news from the News public API and display them on a timeline.
+Api Key: 5dfbcdd753c1449db741e2f537387fef
 
 ## Evaluation Criteria
 
 #### Required
 
 The app functions as expected from the description. It is composed of multiple components, services and css classes.
+
+The focus is on:
+- List displays items with content
+- Reactive programming
+- API binding
+- Parent-child component organization
 
 #### Additional
 
@@ -20,5 +27,4 @@ some Unit Tests
 
 #### Bonus
 
-Provide a docker container which serves the app via docker-compose.
-Configure a gitlab pipeline to run unit tests on commits
+Clean code
