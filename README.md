@@ -2,7 +2,7 @@
 
 This task consists of writing a Hacker News Angular 10 web app from scratch.
 It may be used as take-away or pair-programming task.
-You are encouraged to add your own ideas to improve the function and/or style of the applications.
+You are encouraged to add your own ideas to improve the function and/or style of the application.
 
 ## App Description
 
