@@ -27,9 +27,11 @@ Note: This API does not require authentication.
 The app functions as expected from the description. It is composed of multiple components, services and css classes.
 
 The focus is on:
-- List displays items with correct content
-- List displays items in chronological order
-- Reactive programming
+- Working features
+  - News list displays correct content
+  - News list displays items in chronological order
+  - News counter displays correct count of news 
+- UI and data updates via Reactive programming (RxJS)
 - API binding
 - Parent-child component organization
 
