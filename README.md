@@ -4,8 +4,11 @@ This trial consists of writing an angular 10 app from scratch. Feel free to expa
 
 ## App Description
 
-Pull news from the News public API and display them on a timeline.
-Api Key: 5dfbcdd753c1449db741e2f537387fef
+Pull news from the [Hacker News public API](https://github.com/HackerNews/API) and display the following on a timeline:
+- Top stories:  /v0/topstories
+- Stories counter: stories in the last
+
+No authentication Key required.
 
 ## Evaluation Criteria
 
